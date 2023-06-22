@@ -1,0 +1,21 @@
+[
+    {
+      "Product": "EF124LA",
+      "SKU": "105",
+      "url": "/filtro-hepa-aspiradoras-electrolux-easybox-easy1-easy2-ef124la/p",
+      "salesChannel":"1",
+      "seller":"1"
+    },
+    {
+      "Product": "IE8FB",
+      "SKU": "856900063",
+      "url": "/anafe-a-induccion-4-zonas-con-unicook-flex-electrolux-ie8fb/p",
+      "salesChannel":"1",
+      "seller":"1"
+    },
+    {
+      "Product": "ProducTestTestProduct",
+      "SKU": "9999999999999999999",
+      "url": "/ProducTestTestProduct/p"
+    }
+  ]
